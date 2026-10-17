@@ -131,7 +131,7 @@ Pillar Control Equation Topological Function Shield Effect
 3. Gauge Invariance [H_total, M] = 0 Energy-momentum conservation Closed-system shield
 4. Zero-Sum Integration ∫[S(x)+MS(x)]dx = 0 Phase cancellation Renormalization shield
 
-Together, the four pillars form a self-stabilizing shield (ปราการ) that protects the FVS manifold from UV divergence, gauge anomaly cascade, and external symmetry breaking.
+Together, the four pillars form a self-stabilizing shield  that protects the FVS manifold from UV divergence, gauge anomaly cascade, and external symmetry breaking.
 
 ---
 
@@ -233,7 +233,7 @@ Lemma 3.2 (Convergence). For α > 0, Ψ_φ(ω) converges absolutely.
 
 Proof. Since |cos(·)| ≤ 1, we have |φ^(−αm) cos(·)| ≤ φ^(−αm). The series Σ φ^(−αm) is geometric with ratio φ^(−α) < 1 (since φ > 1 and α > 0), hence convergent by Weierstrass M-test. ∎
 
-Sum value: Σ_{m=1}^∞ φ^(−αm) = φ^(−α)/(1 − φ^(−α)).
+Sum value: Σ_-∞^∞ φ^(−αm) = φ^(−α)/(1 − φ^(−α)).
 
 3.5 Dissipative Healing Engine
 
