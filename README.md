@@ -1,8 +1,9 @@
-INFINITE-DIMENSIONAL QUANTUM FIELD THEORY OVER FIBO VORTEX SPIRAL SPACE (FVS FIELD THEORY)
+FIBONACCI VORTEX SPIRAL FIELD THEORY(FVSF)
 
 A Geometric Derivation of Standard Model Constants and Cosmological Ratios via Fibonacci Time Unification
 
 Author: Chutiphong Bunloed
+
 Affiliation: Independent Researcher, Buriram, Thailand
 
 ABSTRACT
