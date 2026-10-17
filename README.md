@@ -786,7 +786,7 @@ But what if the particle never actually stops running? What if "collapse" is jus
 
    
 
-DOI 10.5281/Zedono.23087025
+DOI 10.5281/Zedono.23443387
 
 Copyright (c) 2026 Chutiphong Bunloed.   
 All Rights Reserved.
