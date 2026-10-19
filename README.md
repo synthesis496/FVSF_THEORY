@@ -1,10 +1,13 @@
 FIBONACCI VORTEX SPIRAL FIELD THEORY(FVSF)
+Fractal Self-Similarity & Invariance
 
 A Geometric Derivation of Standard Model Constants and Cosmological Ratios via Fibonacci Time Unification
 
 Author: Chutiphong Bunloed
+Affiliation: Independent Researcher, Buriram,Thailand
 
-Affiliation: Independent Researcher, Buriram, Thailand
+e-mail: synthesis496@gmail.com
+DOI 10.5281/Zedono.23443387
 
 ABSTRACT
 
@@ -817,8 +820,8 @@ To rigorously parameterize the fractal temporal increments of the Fibo time fiel
 \(\mathcal{M}|{}\Psi _{n}\rangle =-|{}\Psi _{-n}\rangle \)
 where \(F_{n}\) denotes the absolute \(n\)-th Fibonacci number generated natively by the lattice configuration. The relation \(\mathcal{M} \vert{}\Psi_n\rangle = -\vert{}\Psi_{-n}\rangle\) provides the exact mathematical formalization of the Past-Future Reflection Principle, mapping future forward states strictly onto their past conjugate shadows under time-reversal involution.
 By invoking the Friendship Infinity Condition, the global stability integral over the dual-spin sequence boundary requires that for any adjacent conjugate pairs spanning across the infinite timeline limits:
-\(\lim _{n\rightarrow \infty }\left[\^{T}\cdot (\mathbb{I}+\mathcal{M})|{}\Psi _{n}\rangle \right]=\lim _{n\rightarrow \infty }\left[F_{n}|{}\Psi _{n}\rangle -F_{-n}|{}\Psi _{-n}\rangle \right]=0\)
-Since the Binet scaling geometry mandates that \(F_{-n} = (-1)^{n+1} F_n\), the alternating parity architecture strictly cancels out cumulative high-frequency phase energy at the infinite thermodynamic boundary loop. The universe remains bound, stable, and entangled endlessly without a structural wall. \(\blacksquare \)
+\lim _{n\rightarrow \infty }\left[\^{T}\cdot (\mathbb{I}+\mathcal{M})|{}\Psi _{n}\rangle \right]=\lim _{n\rightarrow \infty }\left[F_{n}|{}\Psi _{n}\rangle -F_{-n}|{}\Psi _{-n}\rangle \right]=0
+Since the Binet scaling geometry mandates that \(F_{-n} = (-1)^{n+1} F_n\), the alternating parity architecture strictly cancels out cumulative high-frequency phase energy at the infinite thermodynamic boundary loop. The universe remains bound, stable, and entangled endlessly without a structural wall. (blacksquare)
 
   
 
