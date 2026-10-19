@@ -4,7 +4,8 @@ Fractal Self-Similarity & Invariance
 A Geometric Derivation of Standard Model Constants and Cosmological Ratios via Fibonacci Time Unification
 
 Author: Chutiphong Bunloed
-Affiliation: Independent Researcher, Buriram,Thailand
+
+Affiliation:Independent Researcher, Buriram,Thailand
 
 e-mail: synthesis496@gmail.com
 DOI 10.5281/Zedono.23443387
