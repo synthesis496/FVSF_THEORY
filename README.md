@@ -10,7 +10,7 @@ E-mail: synthesis496@gmail.com
 
 Orcid : 0009-0003-4295-7521
 
-DOI 10.5281/Zedono.23443387
+DOI 10.5281/Zedono.23541851
 
 
 ABSTRACT
