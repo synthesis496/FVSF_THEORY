@@ -1,13 +1,20 @@
 The Fibonacci Time Fractal : Self-Similarity&Invariance (FVS)
 
+## 📖 Explore FVS Field Theory
+*   [View Complete 22 Derivations & Falsifiable Predictions (predictions.md)](./predictions.md)
+
 A Geometric Derivation of Standard Model Constants and Cosmological Ratios via Fibonacci Time Unification
 
 Author : Chutiphong Bunloed
 Affiliation: Independent Researcher, Buriram, Thailand.
+
 E-mail: synthesis496@gmail.com
+
 Orcid : 0009-0003-4295-7521
+
 DOI 10.5281/zedono.23541851
-a
+
+
 ABSTRACT
 
 We develop a geometric field theory Fibo Vortex Spiral Space (FVS) Field Theory in which the structural constants of E8×E8 and SO(32) heterotic lattice geometry and the golden ratio φ determine the numerical values of fundamental physical constants. The theory is constructed from four axioms: lattice embedding into the 248-dimensional E8×E8 algebra (D_total = 248) with dual SO(32) structure (D_SO32 = 496), φ-scaled projection onto the D16⁺ base lattice (D_base = 16), parity alternation (−1)^m, and zero-sum closure. From this axiomatic set, we derive:
