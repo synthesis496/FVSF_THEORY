@@ -1,8 +1,9 @@
 The Fibonacci Time Fractal : Self-Similarity&Invariance (FVS)
 
 ## 📖 Explore FVS Field Theory
-*   [View Complete 22 Derivations & Falsifiable Predictions (predictions.md)](./predictions.md)
-
+    
+*   [View Complete 50 Derivations & Falsifiable Predictions (predictions.md)](./predictions2.md)
+  
 A Geometric Derivation of Standard Model Constants and Cosmological Ratios via Fibonacci Time Unification
 
 Author : Chutiphong Bunloed
