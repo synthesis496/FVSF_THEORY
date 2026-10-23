@@ -13,7 +13,7 @@ Orcid : 0009-0003-4295-7521
 DOI 10.5281/zedono.23541851
 
 ## 📖 Explore FVS Field Theory
-*   [View Complete 50 Derivations & Falsifiable Predictions (predictions.md)](./predictions2.md)
+*   [View Complete 50 Derivations & Falsifiable Predictions (predictions2.md)](./predictions2.md)
 
 ABSTRACT
 
