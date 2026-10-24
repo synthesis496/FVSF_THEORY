@@ -10,7 +10,7 @@ E-mail: synthesis496@gmail.com
 
 Orcid : 0009-0003-4295-7521
 
-DOI 10.5281/zedono.23541851
+DOI 10.5281/zedono.23608226
 
 ## 📖 Explore FVS Field Theory
 *   [View Complete 50 Derivations & Falsifiable Predictions (predictions2.md)](./predictions2.md)
@@ -977,14 +977,15 @@ m_W / m_z = cos(theta_W) = sqrt(1 - sin^2(theta_W))
 Because the Z-boson mass scale marks the convergence threshold of the strong running coupling constant (alpha_s^-1 = 8.481), its reference energy is structurally fixed. Multiplying this baseline value by the rigid geometric coefficient (0.874032) yields a locked prediction for the W-boson mass at exactly ~80.38 GeV, mirroring real-world particle accelerator collision data.
 III. Resolving the Hubble Tension: The Fractal Clock Expansion Rate (H_0)
 Mainstream astrophysics is currently paralyzed by the "Hubble Tension"—a severe contradiction where local stellar measurements yield a fast cosmic expansion rate (~73 km/s/Mpc) while distant early-universe CMB data yields a slow expansion rate (~67.4 km/s/Mpc). The FVS fractal clock entirely resolves this dispute.
+
 1. The Dual-Spin Trajectory
 Cosmic expansion is governed by the non-linear scale factor (a(tau)) operating under the modified Friedmann geometry (Appendix C.1). The metrics do not expand as an isolated flat balloon; they flow along an open, wall-less vortex spiral regulated by the locked structural mass density parameter ratio:
 Omega_m / Omega_Lambda \approx 0.4
+
 2. The Extraction Mechanism
 Because the universe executes a smooth, deterministic evolution between the centripetal compressing matter fraction and the runaway centrifugal dark energy vortex, the observed expansion value (H_0) is not a static constant. It is a scale-dependent manifestation of the aperiodic continuous clock.
 The Early Universe Attractor (CMB Scale): Constrained by the infinite past boundary loop (tau \to -\infty), the system bounds energy accumulation cleanly, locking the lower limit at ~67.4 km/s/Mpc.
 The Local Universe Attractor (Stellar Scale): Driven by the runaway golden spiral expansion regime (phi^tau), local measurements capture the active velocity vector of the experimental apparatus moving through the galactic plane, shifting the local readout to the higher limit of ~73 km/s/Mpc.
 The Hubble Tension is therefore revealed to be a physical illusion caused by attempting to project a linear timeline onto a continuous fractal clock grid.
 
-Copyright (c) 2026 [Chutiphong Bunloed].           
-All Rights Reserved.
+Copyright (c) 2026 [Chutiphong Bunloed].   All Rights Reserved.
