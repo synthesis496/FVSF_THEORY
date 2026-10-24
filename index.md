@@ -7,13 +7,14 @@ The Fibonacci Time Fractal : Self-Similarity&Invariance (FVS)
 A Geometric Derivation of Standard Model Constants and Cosmological Ratios via Fibonacci Time Unification
 
 Author : Chutiphong Bunloed
+
 Affiliation: Independent Researcher, Buriram, Thailand.
 
 E-mail: synthesis496@gmail.com
 
 Orcid : 0009-0003-4295-7521
 
-DOI 10.5281/zedono.23541851
+DOI 10.5281/zedono.23608226
 
 
 ABSTRACT
