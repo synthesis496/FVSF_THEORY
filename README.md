@@ -8,7 +8,7 @@ Affiliation: Independent Researcher, Buriram, Thailand.
 
 E-mail: synthesis496@gmail.com
 
-Orcid : 0009-0003-4295-7521
+https://orcid.org/0009-0003-4295-7521
 
 Chutiphong. synthesis496/FVSF_THEORY: Fibonacci Time Fractal. V. v1.1.1.3. Zenodo, released October 24, 2026. https://doi.org/10.5281/zenodo.23608226.
 
