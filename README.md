@@ -10,8 +10,7 @@ E-mail: synthesis496@gmail.com
 
 https://orcid.org/0009-0003-4295-7521
 
-Chutiphong. synthesis496/FVSF_THEORY: Fibonacci Time Fractal. V. v1.1.1.3. Zenodo, released October 24, 2026. https://doi.org/10.5281/zenodo.23608226.
-CC BY NC-ND4.0
+Bunloed, C. (2026). FVSF_THEORY: The Fibonacci Time Fractal Self-Similarity & Invariance (Version v1.1.1.8) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23764743
 
 ## 📖 Explore FVS Field Theory
 *   [View Complete 50 Derivations & Falsifiable Predictions (predictions2.md)](./predictions2.md)
