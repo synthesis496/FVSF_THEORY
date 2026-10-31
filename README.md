@@ -34,12 +34,42 @@ These pillars are used to motivate a unified temporal and geometric description 
 
 ## Repository structure
 
-- `README.md` — project landing page and overview
-- `index.md` — full manuscript / research article
-- `predictions2.md` — complete set of derivations and falsifiable predictions
-- `*.pdf` — supporting PDF documents and reference material
-- `LICENSE` — repository license
-- `CITATION.cff` — citation metadata
+The repository is intentionally organized to keep the original research material intact while adding a cleaner, easier-to-navigate structure for readers and contributors.
+
+```text
+FVSF_THEORY/
+├── README.md                     # Repository landing page
+├── index.md                      # Full manuscript (primary document)
+├── predictions2.md               # Supplementary derivations and predictions
+├── LICENSE                       # License
+├── CITATION.cff                  # Citation metadata
+├── docs/                        # Organized documentation and navigation
+│   ├── README.md
+│   ├── 01-overview.md
+│   ├── 02-manuscript.md
+│   └── 03-predictions.md
+├── resources/                   # PDFs and reference material
+│   └── README.md
+├── archive/                     # Records of maintained original-file continuity
+│   └── README.md
+├── fvs(ftfsi)3.pdf
+├── fvs_up6_new3particle_blackh.pdf
+├── fvs_up7_new3particle_blackh.pdf
+└── ...
+```
+
+Important note:
+- The original root files remain in place to preserve continuity and historical integrity.
+- The new `docs/`, `resources/`, and `archive/` directories are added for cleaner navigation and discovery.
+
+---
+
+## Documentation index
+
+- `docs/README.md` — structured documentation index and reading guide
+- `docs/01-overview.md` — conceptual overview of the FVS framework
+- `docs/02-manuscript.md` — guide to the full paper in `index.md`
+- `docs/03-predictions.md` — guide to the prediction set in `predictions2.md`
 
 ---
 
@@ -47,6 +77,7 @@ These pillars are used to motivate a unified temporal and geometric description 
 
 - Full paper: [`index.md`](./index.md)
 - Supplementary predictions: [`predictions2.md`](./predictions2.md)
+- Documentation hub: [`docs/README.md`](./docs/README.md)
 
 ---
 
@@ -89,10 +120,10 @@ The repository also includes a dedicated section containing a series of explicit
 
 ## Recommended reading order
 
-1. Start with this README for context.
+1. Read `docs/README.md` for a structured overview and route through the material.
 2. Read the full technical manuscript in [`index.md`](./index.md).
 3. Review the derivation and prediction set in [`predictions2.md`](./predictions2.md).
-4. Consult the PDF resources for supplementary figures and reference material.
+4. Consult the PDF resources in the repository for supplementary reference material.
 
 ---
 
@@ -119,7 +150,7 @@ BibTeX:
 
 ## Notes
 
-This repository is organized as a research archive rather than a conventional software package. The primary value is in the manuscript, derivations, and theoretical framework. If you are revising or presenting the material, the recommended approach is to treat `index.md` as the canonical article and `README.md` as the formal repository landing page.
+This repository is organized as a research archive rather than a conventional software package. The primary value is in the manuscript, derivations, and theoretical framework. The root files remain the authoritative source material, while the new documentation directories are added for streamlined navigation and presentation.
 
 ---
 
@@ -135,5 +166,3 @@ For academic or repository-related inquiries, contact the author at:
 
 - Email: synthesis496@gmail.com
 - ORCID: https://orcid.org/0009-0003-4295-7521
-
-
