@@ -1,51 +1,80 @@
-# FVS Theory Documentation
+# Documentation Index
 
-This folder is the organized documentation hub for the repository. It is designed to make the research easier to navigate without removing or altering the original material stored at the repository root.
-
----
-
-## Recommended reading path
-
-1. [`01-overview.md`](./01-overview.md) — conceptual summary of the FVS framework
-2. [`02-manuscript.md`](./02-manuscript.md) — guide to the full technical manuscript in `../index.md`
-3. [`03-predictions.md`](./03-predictions.md) — guide to the derivation and prediction file in `../predictions2.md`
-4. Root files — full source material remains in the repository root for reference and archival continuity
+This folder serves as the formal navigation layer for the repository. It is designed to help readers move through the manuscript, prediction material, and reference files without altering the original root-level research content.
 
 ---
 
-## Core documents
+## Table of contents
 
-- Full manuscript: [`../index.md`](../index.md)
-- Prediction set: [`../predictions2.md`](../predictions2.md)
-- Repository landing page: [`../README.md`](../README.md)
-- License: [`../LICENSE`](../LICENSE)
-- Citation metadata: [`../CITATION.cff`](../CITATION.cff)
-
----
-
-## Purpose of this directory
-
-The repository contains a large technical manuscript and supporting derivations. This `docs/` folder provides:
-
-- a formal documentation entry point
-- a clean path for reading the research in stages
-- a curated set of links to original source files
-- a structured archive layout without deleting any original content
+- [Overview](./01-overview.md)
+- [Manuscript guide](./02-manuscript.md)
+- [Prediction guide](./03-predictions.md)
+- [Repository landing page](../README.md)
+- [Main manuscript](../index.md)
+- [Prediction supplement](../predictions2.md)
+- [Resources](../resources/README.md)
+- [Archive notes](../archive/README.md)
 
 ---
 
-## Research framing
+## Core reading path
 
-The FVS framework proposes a geometric and temporal model in which key physical quantities emerge from a compact set of structural constants, especially the lattice dimensions and golden ratio φ. The manuscript develops this theory through sections covering:
-
-- the four-pillar mechanism
-- the mathematical structure of the model
-- numerical predictions and matches
-- cosmological interpretations
-- falsifiable predictions and derivation workflows
+1. Start with the overview: [01-overview.md](./01-overview.md)
+2. Read the main manuscript: [../index.md](../index.md)
+3. Review the derivation and prediction supplement: [../predictions2.md](../predictions2.md)
+4. Use the resource index for PDFs and supporting materials: [../resources/README.md](../resources/README.md)
 
 ---
 
-## Notes
+## Repository structure
 
-This directory is intended as a reader-friendly layer above the original research content. All original files remain the canonical authoritative material in the root of the repository.
+```text
+FVSF_THEORY/
+├── README.md                   # Master landing page
+├── index.md                    # Main manuscript (authoritative source)
+├── predictions2.md             # Prediction and derivation supplement
+├── LICENSE                     # Licensing information
+├── CITATION.cff                # Citation metadata
+├── docs/                       # Documentation and navigation layer
+│   ├── README.md               # Documentation index
+│   ├── 01-overview.md          # Conceptual summary
+│   ├── 02-manuscript.md        # Manuscript guide
+│   └── 03-predictions.md      # Prediction guide
+├── resources/                  # PDF and supporting references
+│   └── README.md               # Resource index
+├── archive/                    # Original-file preservation notes
+│   └── README.md               # Archive intent and continuity record
+├── fvs(ftfsi)3.pdf
+├── fvs_up6_new3particle_blackh.pdf
+├── fvs_up7_new3particle_blackh.pdf
+└── ...
+```
+
+---
+
+## Purpose of this folder
+
+The `docs/` directory is not a replacement for the original manuscript. Instead, it serves as a reader-friendly map to the repository.
+
+It exists to provide:
+
+- a cleaner documentation path
+- easier browsing for readers and reviewers
+- direct references to the key source files
+- a formal repository structure without altering the root source material
+
+---
+
+## Important note
+
+The root-level research files remain the canonical record of the project. This folder exists to improve discoverability and readability, not to replace or rewrite the original manuscript.
+
+---
+
+## Related links
+
+- [Repository overview](../README.md)
+- [Main manuscript](../index.md)
+- [Prediction supplement](../predictions2.md)
+- [Resources index](../resources/README.md)
+- [Archive notes](../archive/README.md)
